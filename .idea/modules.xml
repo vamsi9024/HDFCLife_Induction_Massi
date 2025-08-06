@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day3/Day3.iml" filepath="$PROJECT_DIR$/Day3/Day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day1/EmployeeManagementSystem/EmployeeManagementSystem.iml" filepath="$PROJECT_DIR$/Day1/EmployeeManagementSystem/EmployeeManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day1/EmployeeOnBoardingSetUp/EmployeeOnBoardingSetUp.iml" filepath="$PROJECT_DIR$/Day1/EmployeeOnBoardingSetUp/EmployeeOnBoardingSetUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HDFC_Induction.iml" filepath="$PROJECT_DIR$/.idea/HDFC_Induction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day1/Helloworld/Helloworld.iml" filepath="$PROJECT_DIR$/Day1/Helloworld/Helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2/Masai_assignment_Day2/Masai_assignment_Day2.iml" filepath="$PROJECT_DIR$/Day2/Masai_assignment_Day2/Masai_assignment_Day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day1/MyFirstApplication/MyFirstApplication.iml" filepath="$PROJECT_DIR$/Day1/MyFirstApplication/MyFirstApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2/Oops_Concepts/Oops_Concepts.iml" filepath="$PROJECT_DIR$/Day2/Oops_Concepts/Oops_Concepts.iml" />
+    </modules>
+  </component>
+</project>
