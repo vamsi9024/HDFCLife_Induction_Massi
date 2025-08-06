@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/Day2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Day2/Masai_assignment_Day2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Day2/Oops_Concepts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day3" vcs="Git" />
   </component>
 </project>
